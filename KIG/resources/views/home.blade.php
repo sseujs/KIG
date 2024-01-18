@@ -13,7 +13,7 @@
             explore, the more you empower yourself to navigate the intricacies of our dynamic and ever-changing world.
             Happy exploring!</p>
           <div class="d-flex justify-content-center justify-content-lg-start">
-            <a href="blog.html" class="btn-get-started">BLOG</a>
+            <a href="/blog" class="btn-get-started">BLOG</a>
           </div>
         </div>
         <div class="col-lg-6 order-1 order-lg-2">
@@ -43,7 +43,7 @@
           <div class="col-xl-3 col-md-6" data-aos="fade-up" data-aos-delay="300">
             <div class="icon-box">
               <div class="icon"><i class="bi bi-geo-alt"></i></div>
-              <h4 class="title"><a href="" class="stretched-link">AD-BS Somming Soon</a></h4>
+              <h4 class="title"><a href="" class="stretched-link">AD-BS Comming Soon</a></h4>
             </div>
           </div><!--End Icon Box -->
 
@@ -249,8 +249,7 @@
 
         <div class="section-header">
           <h2>Our Team</h2>
-          <p>Nulla dolorum nulla nesciunt rerum facere sed ut inventore quam porro nihil id ratione ea sunt quis dolorem
-            dolore earum</p>
+          <p>Discover the diverse talents and collaborative spirit that define our exceptional team.</p>
         </div>
 
         <div class="row gy-4">
@@ -322,8 +321,7 @@
 
         <div class="section-header">
           <h2>Recent Blog Posts</h2>
-          <p>Consequatur libero assumenda est voluptatem est quidem illum et officia imilique qui vel architecto
-            accusamus fugit aut qui distinctio</p>
+          <p>Explore our latest blog posts for insightful content and up-to-date information</p>
         </div>
 
         <div class="row gy-4">
